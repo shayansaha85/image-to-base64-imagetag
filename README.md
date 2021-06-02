@@ -4,4 +4,4 @@ This python script can help to convert any image in an independent image tag to 
 
 Generally when we add any photo in our html, we add the image name or image link from another website in the image tag like this
 <br>
-<code><img src="example.jpg"></code>
+<code>"<img src="example.jpg">"</code>
