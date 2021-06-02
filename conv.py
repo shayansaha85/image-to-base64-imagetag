@@ -6,7 +6,9 @@ os.system("mkdir html")
 # You have to enter the path of the folder which contains your all image files in any format (jpg/jpeg/png/webp)
 # For trying it you can use the sample images folder of this directory
 
-pathOfImageFolder = input("Enter the folde path of the images : ")
+
+pathOfImageFolder = "./images" # You can replace this with your folder path
+
 imagesname = os.listdir(pathOfImageFolder)
 
 k=1
